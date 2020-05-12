@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "css-what": "2.1",
-    "domutils": "git+https://github.com/campspot/domutils.git#campspot-node-4",
+    "domutils": "campspot/domutils#campspot-node-4",
     "boolbase": "~1.0.0",
     "nth-check": "~1.0.1"
   },
